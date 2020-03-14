@@ -1,8 +1,10 @@
-# Project name
+CoVid Ecosystem - All tasks
 
 [![GitHub contributors](https://img.shields.io/github/contributors/code4romania/NEW_REPO_SLUG_HERE.svg?style=for-the-badge)](https://github.com/code4romania/NEW_REPO_SLUG_HERE/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/code4romania/NEW_REPO_SLUG_HERE.svg?style=for-the-badge)](https://github.com/code4romania/NEW_REPO_SLUG_HERE/commits/master) [![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
 
-Insert bullets description of the project if available.
+This is a repo destined to all tasks who are vital to moving forward on all projects in the CoVid ecosystem. We have gathered all the tasks in one place, while all the the dedicated repositories for the projects are being built, the environments configured and technologies decided. 
+
+[IMPORTANT] You will find UX/UI, content, design, dev and all kinds of tasks in here. All of them are relevant to all of the projects in the CoVid ecosystem. 
 
 [See the project live](insert_link_here)
 
@@ -12,42 +14,9 @@ Give a short introduction of your project. Let this section explain the objectiv
 
 ## Contributing
 
-This project is built by amazing volunteers and you can be one of them! Here's a list of ways in [which you can contribute to this project](.github/CONTRIBUTING.md).
+If you would like to contribute to one of our repositories, first identify the scale of what you would like to contribute. If it is small (grammar/spelling or a bug fix) feel free to start working on it. 
 
-You can also list any pending features and planned improvements for the project here.
-
-## Built With
-
-### Programming languages
-
-### Platforms
-
-### Frontend framework
-
-### Package managers
-
-### Database technology & provider
-
-## Repos and projects
-
-Mention all related repos and projects.
-
-## Deployment
-
-Guide users through getting your code up and running on their own system. In this section you can talk about:
-1. Installation process
-2. Software dependencies
-3. Latest releases
-4. API references
-
-Describe and show how to build your code and run the tests.
-
-## Feedback
-
-* Request a new feature on GitHub.
-* Vote for popular feature requests.
-* File a bug in GitHub Issues.
-* Email us with other feedback contact@code4.ro
+We don't have a specific set of coding guidelines, so just follow the way the code was written until now, if in doubt, you can use Google's style guide.
 
 ## License
 
