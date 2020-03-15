@@ -8,6 +8,9 @@ This is a repo destined to all tasks who are vital to moving forward on all proj
 
 We will continuously bring in new projects in the ecosystem. This will be a long term effort of at least one or two months. 
 
+_______________________
+Project description_RO
+
 Pandemia de coronavirus ne va schimba din plin viețile în săptămânile și lunile care urmează. Chiar dacă momentan România pare că e pregătită, în ciuda evoluțiilor politice, e cert că vom trece printr-o perioadă dificilă, plină de incertitudini și știri alarmante. Misiunea principală a Code for Romania a fost dintotdeauna să găsească soluții tehnice pentru problemele societății, iar Coronavirusul este momentan una dintre cele mai mari.
 
 De aceea, Code for Romania a ales să privească răspândirea infecției cu coronavirus ca pe o amenințare reală ce trebuie tratată cu cea mai mare responsabilitate. Ne-am dat seama că lucratul de acasă și amânatul evenimentelor de lansare Civic Labs nu e îndeajuns. așa că am început să dezvoltăm în regim de urgență șase soluții tehnice vitale pentru ameliorarea problemelor cauzate de COVID-19.
