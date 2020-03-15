@@ -6,9 +6,18 @@ This is a repo destined to all tasks who are vital to moving forward on all proj
 
 [IMPORTANT] You will find UX/UI, content, design, dev and all kinds of tasks in here. All of them are relevant to all of the projects in the CoVid ecosystem. 
 
-[See the project live](insert_link_here)
+We will continuously bring in new projects in the ecosystem. This will be a long term effort of at least one or two months. 
 
-Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.
+Pandemia de coronavirus ne va schimba din plin viețile în săptămânile și lunile care urmează. Chiar dacă momentan România pare că e pregătită, în ciuda evoluțiilor politice, e cert că vom trece printr-o perioadă dificilă, plină de incertitudini și știri alarmante. Misiunea principală a Code for Romania a fost dintotdeauna să găsească soluții tehnice pentru problemele societății, iar Coronavirusul este momentan una dintre cele mai mari.
+
+De aceea, Code for Romania a ales să privească răspândirea infecției cu coronavirus ca pe o amenințare reală ce trebuie tratată cu cea mai mare responsabilitate. Ne-am dat seama că lucratul de acasă și amânatul evenimentelor de lansare Civic Labs nu e îndeajuns. așa că am început să dezvoltăm în regim de urgență șase soluții tehnice vitale pentru ameliorarea problemelor cauzate de COVID-19.
+
+La data de 11 Martie 2020 am format un grup de lucru, Code for Romania Task Force al cărei misiuni este găsirea unor soluții tehnologice rapide pentru actuala situație de criză. Ne-am consultat cu voluntarii Code for Romania, o comunitate cu peste 1200 de specialiști din foarte multe domenii de activitate și am identificat până acum o serie de soluții ce au intrat deja în dezvoltare în cadrul noului proiect Code for Romania Task Force.
+
+Este esențial faptul că toate cele șase proiectele ce au intrat deja în dezvoltare sunt realizate în coordonare cu Guvernului României prin Autoritatea pentru Digitalizarea României și Departamentul pentru Situații de Urgență. Acest lucru ne va permite acces nemijlocit și în cel mai scurt timp posibil la toate datele oficiale de care avem nevoie, lucru esențial pentru dezvoltarea soluțiilor propuse.
+
+We are the ones we’ve been waiting for!
+https://code4.ro/ro/apps/
 
 [Contributing](#contributing) | [Built with](#built-with) | [Repos and projects](#repos-and-projects) | [Deployment](#deployment) | [Feedback](#feedback) | [License](#license) | [About Code4Ro](#about-code4ro)
 
